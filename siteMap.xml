@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+  <url>
+    <loc>http://www.What's in my fridge.fr</loc>
+    <lastmod>2018-03-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://www.What's in my fridge.fr/mon frigo.php</loc>
+    <lastmod>2018-03-25</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.What's in my fridge.fr/mon frigo.php/viande.php</loc>
+    <lastmod>2018-03-25</lastmod>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>http://www.What's in my fridge.fr/mon frigo.php/poisson.php</loc>
+    <lastmod>2018-03-25</lastmod>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>http://www.What's in my fridge.fr/mon frigo.php/fromage.php</loc>
+    <lastmod>2018-03-25</lastmod>
+    <priority>0.1</priority>
+  </url>
+  <url>
+    <loc>http://www.What's in my fridge.fr/mon frigo.php/sauce.php</loc>
+    <lastmod>2018-03-25</lastmod>
+    <priority>0.2</priority>
+  </url>
+    <url>
+    <loc>http://www.What's in my fridge.fr/mon frigo.php/letage.php</loc>
+    <lastmod>2018-03-25</lastmod>
+    <priority>0.2</priority>
+  </url>
+    <url>
+    <loc>http://www.What's in my fridge.fr/mon frigo.php/legumes.php</loc>
+    <lastmod>2018-03-25</lastmod>
+    <priority>0.2</priority>
+  </url>
+    <url>
+    <loc>http://www.What's in my fridge.fr/mon frigo.php/fruits.php</loc>
+    <lastmod>2018-03-25</lastmod>
+    <priority>0.2</priority>
+  </url>
+    <url>
+    <loc>http://www.What's in my fridge.fr/mon frigo.php/feculents.php</loc>
+    <lastmod>2018-03-25</lastmod>
+    <priority>0.2</priority>
+  </url>
+    <url>
+    <loc>http://www.What's in my fridge.fr/mon frigo.php/cereales.php</loc>
+    <lastmod>2018-03-25</lastmod>
+    <priority>0.2</priority>
+  </url>
+    <url>
+    <loc>http://www.What's in my fridge.fr/mon frigo.php/conserve.php</loc>
+    <lastmod>2018-03-25</lastmod>
+    <priority>0.2</priority>
+  </url>
+    <url>
+    <loc>http://www.What's in my fridge.fr/mon frigo.php/epices.php</loc>
+    <lastmod>2018-03-25</lastmod>
+    <priority>0.2</priority>
+  </url>
+    <url>
+    <loc>http://www.What's in my fridge.fr/mon frigo.php/soft.php</loc>
+    <lastmod>2018-03-25</lastmod>
+    <priority>0.2</priority>
+  </url>
+    <url>
+    <loc>http://www.What's in my fridge.fr/mon frigo.php/alcool.php</loc>
+    <lastmod>2018-03-25</lastmod>
+    <priority>0.2</priority>
+  </url>
+</urlset>

@@ -1,0 +1,331 @@
+/*!
+ * Start Bootstrap - Blog Home (https://startbootstrap.com/template-overviews/blog-home)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-home/blob/master/LICENSE)
+ */
+
+.h2-center {
+	text-align: center;
+}
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 150px;
+  }
+}
+
+#logo {
+	width: 250px;
+	height: 125px;
+	vertical-align: center;
+	display: block;
+	margin: auto;
+	margin-top: 70px;
+}
+#Select{
+  margin-bottom: 50px;
+}
+
+#div_comment_account{
+
+}
+
+#img_account{
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	color: #fff;
+}
+
+.navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link{
+	color: #fff;
+}
+
+.top {
+	position: absolute;
+	top:0;
+	left: 0;
+}
+
+.bg-ciel {
+	background-color: #2E9AFE !important;
+	color: white;
+}
+
+a {
+	color: #000;
+}
+
+a:hover {
+	color: #0174DF !important;
+}
+
+.post {
+	margin-top: 30px;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #0174DF;
+  border-color: #fff;
+}
+
+.btn-primary:hover {
+  color: #fff !important;
+  background-color: #2E9AFE;
+  border-color: #0174DF;
+}
+
+.py-5 {
+	padding-top: 5px !important;
+	height: 20px !important;
+}
+
+.pos {
+  margin-top: 6.4rem !important;
+}
+
+#search {
+	margin-top: 10px;
+}
+
+.ligne-verticale {
+    width:5px;
+    border-left:1px solid gray;
+    height:70px;
+}
+
+.padding-bot-20 {
+	padding-bottom: 30px !important;
+}
+
+#boeuf{
+  background-image: url('../img/gastro/background_meat.jpg');
+}
+#poulet{
+  background-image: url('../img/gastro/background_chicken.jpg');
+}
+#porc{
+  background-image: url('../img/gastro/porc.jpg');
+}
+#poisson{
+  background-image: url('../img/gastro/poisson2.jpeg');
+}
+#fruitdemer{
+  background-image: url('../img/gastro/fruitdemer.jpg');
+}
+#poisson2{
+  background-image: url('../img/gastro/poisson.jpg');
+}
+#fromage{
+  background-image: url('../img/gastro/fromage.jpg');
+}
+#sauce{
+  background-image: url('../img/gastro/sauce1.jpeg');
+}
+#sauce2{
+  background-image: url('../img/gastro/sauce2.jpeg');
+}
+#lait{
+  background-image: url('../img/gastro/lait.jpeg');
+}
+#yogurt{
+  background-image: url('../img/gastro/yogurt.jpg');
+}
+#legume1{
+  background-image: url('../img/gastro/legume1.jpg');
+}
+#legume2{
+  background-image: url('../img/gastro/legume2.jpeg');
+}
+#legume3{
+  background-image: url('../img/gastro/legume3.jpeg');
+}
+.img_aliments{
+  background-size: 100% auto;
+  padding-top: 200px;
+  border-radius: 5px;
+}
+.imglogo{
+  float:top;
+}
+
+.div_recipe{
+  display: inline;
+  text-align: center;
+  width: auto;
+}
+
+.main_container{
+  border-radius: 50px;
+  background-color: #ffffff;
+  margin: 25px;
+  width: 1080px;
+  padding-top: 50px;
+}
+
+.main_container a{
+  display: inline;
+  padding: 0px;
+  font-size: 12px;
+  font-style: italic;
+  font
+}
+
+.main_container h6{
+  display: inline;
+
+}
+
+.main_container img{
+  vertical-align: top;
+  border-radius: 25px;
+}
+
+
+
+.div_img_recipe{
+  padding-left: 25px;
+  display: inline;
+  margin-bottom: 50px;
+}
+
+.comment_div{
+  padding-left: 25px;
+}
+
+.card_recipe{
+  border: 0px;
+  border-radius: 25px;
+}
+
+.rating_comment {
+   display: inline;
+}
+.rating_comment a {
+   color: #aaa;
+   text-decoration: none;
+   font-size: 1em;
+   transition: color .4s;
+}
+.rating_comment a:hover,
+.rating_comment a:focus,
+.rating_comment a:hover ~ a,
+.rating_comment a:focus ~ a {
+   color: #2E9AFE;
+   cursor: pointer;
+}
+.rating {
+   direction: rtl;
+}
+.rating a {
+   color: #aaa;
+   text-decoration: none;
+   font-size: 3em;
+   transition: color .4s;
+}
+.rating a:hover,
+.rating a:focus,
+.rating a:hover ~ a,
+.rating a:focus ~ a {
+   color: #2E9AFE;
+   cursor: pointer;
+}
+.container_food{
+  border-radius: 50px;
+  background-color: #ffffff;
+  margin: 20px;
+}
+
+/* newRecipe.php */
+
+.center-newRecipe {
+  text-align: center;
+}
+.sl-box-newRecipe{
+  background-color: #FAFAFA;
+  padding: 10px 10px 0px 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #F2F2F2;
+  border-radius: 5px;
+}
+
+.sl-box-newRecipe:hover {
+  transition:.5s
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  background-color: #F2F2F2;
+  border-color: #BDBDBD;
+}
+.div_center-newRecipe{
+  margin: auto;
+}
+#recipe-box {
+  min-height: 750px;
+  min-width: 332px;
+}
+#btn-submit-newRecipe{
+  margin-top:25px;
+  margin-bottom: 25px;
+  background-color: #2e9afe;
+}
+/* newEvent.php */
+
+.center-newEvent {
+  text-align: center;
+  margin:auto;
+}
+
+.padding-newEvent{
+  padding-top: 25px;
+}
+
+.sl-box-newEvent{
+  background-color: #FAFAFA;
+  padding: 10px 10px 0px 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #F2F2F2;
+  border-radius: 5px;
+}
+
+.sl-box-newEvent:hover {
+  transition:.5s
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  background-color: #F2F2F2;
+  border-color: #BDBDBD;
+}
+.div_center-newEvent{
+  margin: auto;
+}
+#event-box {
+  min-height: 750px;
+  min-width: 332px;
+  margin-top: 25px;
+}
+#btn-submit-newEvent{
+  margin-top:25px;
+  margin-bottom: 25px;
+  background-color: #2e9afe;
+}
+
+/* myEvent */
+.locMap{
+	padding-right: 1050px;
+	padding-top: 25px;
+}
+.padding-Event{
+  margin-top: 25px;
+}
