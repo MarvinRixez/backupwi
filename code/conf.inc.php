@@ -4,7 +4,7 @@ define("DBDRIVER", "mysql");
 define("DBHOST", "localhost");
 define("DBNAME", "wimf");
 define("DBUSER", "root");
-define("DBPWD", "wimf");
+define("DBPWD", "");
 
 $listOfGender = ["Monsieur", "Madame", "Autres"];
 $defaultGender = $listOfGender[0];
